@@ -1,1 +1,1 @@
-# BinFai
+# BinFai智能助手
